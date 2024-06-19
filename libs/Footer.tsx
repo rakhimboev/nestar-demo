@@ -15,12 +15,12 @@ const Footer = () => {
 
           <Box component={"div"} className={"footer-box"}>
             <span>total free customer car</span>
-            <p>+82 10 29101911</p>
+            <p>+1 917-817-3170</p>
           </Box>
 
           <Box component={"div"} className={"footer-box"}>
             <span>nee live</span>
-            <p>+82 10 29101911</p>
+            <p>7dilshodbek@gmail.com</p>
             <span>Support?</span>
           </Box>
 

@@ -19,7 +19,7 @@ const TrendPropertyCard = () => {
             fontWeight: "600",
           }}
         >
-          $10
+          $170000
         </div>
       </Box>
       <Box className={"info"}>
