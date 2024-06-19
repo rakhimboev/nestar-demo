@@ -13,7 +13,7 @@ const PropertyCard = () => {
           <img src={imagePath} alt="" />
         </Link>
         <Box className="top-badge">
-          <img src="/img/icons/electricity.svg" alt="" />
+          <img src="../../pubic/img/icons/electricity.svg" alt="" />
           <Typography color={"#fff !important"}>TOP</Typography>
         </Box>
         <Box className="price-box">
